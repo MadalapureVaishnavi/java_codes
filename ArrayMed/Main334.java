@@ -1,4 +1,4 @@
-package ArrayMed;
+// package ArrayMed;
 
 //cd..
 class Solution {
